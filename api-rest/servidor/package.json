@@ -1,0 +1,24 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "description": "Proyecto de webcam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel NB",
+  "license": "MIT",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "express": "^4.17.1",
+    "livereload": "^0.9.1",
+    "mkdir": "0.0.2",
+    "mustache": "^4.0.1",
+    "record-screen": "^3.16.0",
+    "socket.io": "^2.3.0",
+    "videojs-record": "^3.11.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.4"
+  }
+}
